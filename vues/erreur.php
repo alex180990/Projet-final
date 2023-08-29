@@ -1,0 +1,1 @@
+<span class="erreur">Une erreur est survenue: <?= $erreur ?></span>
